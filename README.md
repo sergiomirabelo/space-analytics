@@ -84,7 +84,7 @@ Escaneie o QR Code com o Expo Go para rodar no dispositivo físico.
 
 ## 🎥 Vídeo de Demonstração
 
-[Clique aqui para assistir](https://youtube.com/...)
+[Clique aqui para assistir](https://youtube.com/shorts/uVPbKnoGoaE?feature=share)
 
 ## 📄 Licença
 Este projeto foi desenvolvido para fins acadêmicos — FIAP 2026.
