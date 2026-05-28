@@ -15,32 +15,33 @@ Space Analytics é uma plataforma mobile inteligente de análise preditiva para 
 
 ### Home — Dashboard Principal
 ![Home](./assets/screenshots/home.png)
-Visão geral dos indicadores da missão: temperatura, bateria, sinal e alertas ativos. Inclui análise de IA generativa.
+
+-Visão geral dos indicadores da missão: temperatura, bateria, sinal e alertas ativos. Inclui análise de IA generativa.
 
 ### Dashboard de Sensores
 ![Sensores](./assets/screenshots/sensores.png)
 
-Gráficos em tempo real de temperatura, pressão, radiação e umidade.
+-Gráficos em tempo real de temperatura, pressão, radiação e umidade.
 
 ### Dashboard de Energia
 ![Energia](./assets/screenshots/energia.png)
 
-Indicadores de painel solar, bateria e consumo com gráfico de barras e barra de nível.
+-Indicadores de painel solar, bateria e consumo com gráfico de barras e barra de nível.
 
 ### Dashboard de Comunicação
 ![Comunicação](./assets/screenshots/comunicacao.png)
 
-Status do link de telemetria, latência e qualidade do sinal com histórico gráfico.
+-Status do link de telemetria, latência e qualidade do sinal com histórico gráfico.
 
 ### Alertas
 ![Alertas](./assets/screenshots/alertas.png)
 
-Lista de alertas gerados automaticamente com base nos limiares configurados.
+-Lista de alertas gerados automaticamente com base nos limiares configurados.
 
 ### Configurações
 ![Config](./assets/screenshots/configuracoes.png)
 
-Formulário de configuração dos limiares de alerta com validação e persistência via AsyncStorage.
+-Formulário de configuração dos limiares de alerta com validação e persistência via AsyncStorage.
 
 ## ✅ Funcionalidades
 
