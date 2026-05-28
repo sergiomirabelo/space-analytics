@@ -8,7 +8,8 @@ Space Analytics é uma plataforma mobile inteligente de análise preditiva para 
 
 | Nome | RM |
 |------|----|
-| Seu Nome Completo | RM000000 |
+| Sergio Mirabelo | RM562161 |
+| Erick Gimenez | RM564748 |
 
 ## 📱 Telas do Aplicativo
 
@@ -18,22 +19,27 @@ Visão geral dos indicadores da missão: temperatura, bateria, sinal e alertas a
 
 ### Dashboard de Sensores
 ![Sensores](./assets/screenshots/sensores.png)
+
 Gráficos em tempo real de temperatura, pressão, radiação e umidade.
 
 ### Dashboard de Energia
 ![Energia](./assets/screenshots/energia.png)
+
 Indicadores de painel solar, bateria e consumo com gráfico de barras e barra de nível.
 
 ### Dashboard de Comunicação
 ![Comunicação](./assets/screenshots/comunicacao.png)
+
 Status do link de telemetria, latência e qualidade do sinal com histórico gráfico.
 
 ### Alertas
 ![Alertas](./assets/screenshots/alertas.png)
+
 Lista de alertas gerados automaticamente com base nos limiares configurados.
 
 ### Configurações
 ![Config](./assets/screenshots/configuracoes.png)
+
 Formulário de configuração dos limiares de alerta com validação e persistência via AsyncStorage.
 
 ## ✅ Funcionalidades
